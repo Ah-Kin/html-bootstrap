@@ -1,0 +1,77 @@
+h1, h2, h3, h4, h5, h6 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+h1 a {
+  font-size: 34px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bolder;
+  color: black;
+  margin: 38px 0px 38px 0px;
+
+}
+nav h1 a:hover {
+  color: black;
+  text-decoration: none;
+}
+nav a:link {
+  text-decoration: none;
+  color: rgb(150,150,150)
+}
+nav ul {
+  text-align: right;
+  font-weight: 400;
+}
+nav ul li a {
+  color: rgb(150,150,150);
+}
+nav ul li a:hover {
+  color: rgb(150,150,150);
+}
+nav ul li {
+  color: rgb(150,150,150);
+  padding-top: 8px;
+  font-size: 18px;
+  font-family: 'Montserrat', sans-serif;
+  display: inline-block;
+  margin-left: 28px;
+}
+nav {
+  padding: 30px 0px 24px 0px;
+}
+header {
+  padding-top: 110px;
+  padding-bottom: 220px;
+  background: rgb(239, 239, 239) ;
+  background-image: url(/assets/img/background-pattern.png);
+  background-repeat: repeat-x;
+  background-position: center bottom;
+  text-align: center;
+}
+header h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  font-size: 48px;
+}
+header p {
+  font-size: 22px;
+  font-family: 'Montserrat', sans-serif;
+  color: rgb(150,150,150);
+  margin-top: 10px;
+  margin-bottom: 40px;
+}
+header a {
+  color: rgb(150,150,150);
+  font-size: 18px;
+  background-color: rgb(104,100,255);
+  color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
+  padding: 18px 34px 18px 34px;
+}
+header a:link {
+  text-decoration: none;
+  color: rgb(150,150,150);
+}
+header a:hover {
+  color: rgb(150,150,150);
+}
